@@ -25,8 +25,13 @@ Hoy aprendí el flujo de Git. Karly 2 de julio
 
 -------------------
 
+<<<<<<< HEAD
 Hoy hice mi primera Branch. KARLY 6 DE JULIO 
 
 
 _____________
 Este cambio fue hecho desde main. 8 DE JULIO 
+=======
+Hoy hice mi primera Branch. KARLY 6 DE JULIO  MODIFICACIÓN SOBRE MAIN
+_____________
+>>>>>>> practica-karly
