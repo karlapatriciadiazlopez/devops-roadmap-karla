@@ -35,3 +35,5 @@ Este cambio fue hecho desde main. 8 DE JULIO
 Hoy hice mi primera Branch. KARLY 6 DE JULIO  MODIFICACIÓN SOBRE MAIN
 _____________
 >>>>>>> practica-karly
+>>>>>>>
+>>>>>>> Practicando Pull desde GitHub 🫀
